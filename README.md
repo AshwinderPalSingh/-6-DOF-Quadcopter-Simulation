@@ -5,6 +5,8 @@ This repository contains a complete Python-based simulation of a 6-Degree-of-Fre
 This project is an ideal tool for learning, testing, and verifying advanced control system strategies before implementing them on real hardware.
 
 ![Successful Simulation](images/drone.gif)
+![](images/graph1.png)
+![](images/graph2.png)
 
 
 ---
@@ -58,14 +60,10 @@ This simulation was developed and tested on **Python 3.11**. Using other version
     ```
 
 4.  **Run the main simulation:**
-    ```bash
-What to do next:
+    ```
     python3 main.py
     ```
-    This command will:
-    * Run the complete simulation.
-    * Save the 2D performance graphs (`sim_position_plots.png`, `sim_attitude_plots.png`).
-    * Open a 3D animation window to show the flight.
+   
 
 5.  **(Optional) Generate the 3D Model:**
     If you want to re-generate the `.stl` file:
