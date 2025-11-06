@@ -43,7 +43,7 @@ This simulation was developed and tested on **Python 3.11**. Using other version
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/quadcopter_simulation.git](https://github.com/YOUR_USERNAME/quadcopter_simulation.git)
+    git clone [https://github.com/AshwinderPalSingh/quadcopter_simulation.git](https://github.com/YOUR_USERNAME/quadcopter_simulation.git)
     cd quadcopter_simulation
     ```
 
